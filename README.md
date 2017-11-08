@@ -71,7 +71,7 @@ Now browse to the app at [`localhost:8000/index.html`][local-app-url].
 app/                    --> all of the source files for the application
   app.css               --> default stylesheet
   components/           --> all app specific modules
-  welcome/                --> the view1 view template and logic
+  welcome/                --> the welcome view template and logic
     welcome.html            --> the partial template
     welcome.js              --> the controller logic
     welcome_test.js         --> tests of the controller
