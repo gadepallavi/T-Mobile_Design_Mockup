@@ -4,6 +4,9 @@ This project is an application skeleton for a design mockup for T-Mobile
 
 The app shows a welcome screen wired with one controllers and view together.
 
+Assumption :
+1) Dark pink is the background color for full page.
+
 
 ## Getting Started
 
