@@ -1,0 +1,65 @@
+/* app css stylesheet */
+
+/* mobile */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
+.banner-content {
+  left: 15%;
+  top: 30%;
+}
+}
+
+/* tablet */
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px)
+and (-webkit-min-device-pixel-ratio: 1) {
+  .banner-content {
+    left: 30%;
+    top: 40%;
+  }
+}
+
+/* laptop and desktops */
+@media screen
+and (min-device-width: 1200px)
+and (max-device-width: 1600px)
+and (-webkit-min-device-pixel-ratio: 1) {
+  .banner-content {
+    left: 30%;
+    top: 35%;
+    font-size: 2.5em;
+  }
+}
+
+.container {
+  background-color: #ff1493;
+  font-family: Arial;
+  color: white;
+}
+.sub-container
+{
+  margin: 0 auto;
+  padding: 3% 0;
+}
+.header,
+.sub-header{
+  padding:0;
+  margin:0;
+  text-align: center;
+}
+
+.banner-container {
+  margin: 0 auto;
+  width: 25vw;
+  height: 12.5vw;
+  background-color: lightgrey;
+  text-align: center;
+  position: relative;
+}
+.banner-content {
+  position: absolute;
+  color: #808080;
+}
