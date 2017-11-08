@@ -18,20 +18,13 @@ and its package manager (npm) installed. You can get them from [here][node].
 
 ### Clone `T-Mobile_Design_Mockup`
 
-Clone the `T-Mobile_Design_Mockup` repository using git:
+Clone the `T-Mobile_Design_Mockup` repository using below URL:
 
 ```
-git clone https://github.com/angular/angular-seed.git
-cd angular-seed
-```
-
-If you just want to start a new project without the `angular-seed` commit history then you can do:
+https://github.com/gadepallavi/T-Mobile_Design_Mockup.git
 
 ```
-git clone --depth=1 https://github.com/angular/angular-seed.git <your-project-name>
-```
 
-The `depth=1` tells git to only pull down one commit worth of historical data.
 
 ### Install Dependencies
 
